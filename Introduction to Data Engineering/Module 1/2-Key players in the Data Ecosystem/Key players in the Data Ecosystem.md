@@ -16,13 +16,13 @@ They work within the data ecosystem to:
 * Clean, transform and prepare data
 * Design, store and manage data in data repositories
 
-They enable data to be accesible in formats and systems the various business applciations as well as stake holders like data analysts and data scientists can utilize.
+They enable data to be accessible in formats and systems the various business applications as well as stake holders like data analysts and data scientists can utilize.
 
 Skills:
 
 * Good knowledge of programming
-* Sound knowledge of systems and techonology architectures
-* In-depth understaing of relational databases and non relational data stores
+* Sound knowledge of systems and technology architectures
+* In-depth understanding of relational databases and non relational data stores
 
 
 # Data Analysts
@@ -40,7 +40,7 @@ Data analysts are the people who answer questions. For example, "Are the users' 
 
 Skills:
 
-* Good knowlege of spreadsheets, writing queries and using statistical tools to create charts and dashboards
+* Good knowledge of spreadsheets, writing queries and using statistical tools to create charts and dashboards
 
 * Modern data analysts some programming skills
 * Strong analytical and story-telling skills
@@ -67,7 +67,7 @@ Skills:
 
 Business analysts leverage the work of data analysts and Data scientists to look at possible implications for their business and the actions they need to take or recommend.
 
-BI analysts do the same except their focus is on the market forces and external influences that shape their business. They provide business intelligent solutions by organizing and monitoring data on different business functions. They also explore data to extract insights and acionables that improve business performance.
+BI analysts do the same except their focus is on the market forces and external influences that shape their business. They provide business intelligent solutions by organizing and monitoring data on different business functions. They also explore data to extract insights and actionables that improve business performance.
 
 # Summary
 
